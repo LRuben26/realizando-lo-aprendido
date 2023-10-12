@@ -1,4 +1,4 @@
-import checkComplete from "./componetes/checkCom.js";
+import checkComplete from "./componetes/checkCom.js"
 import deleteIcon from "./componetes/deleteCom.js";
 
 
