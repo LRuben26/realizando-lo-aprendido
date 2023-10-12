@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../diseño web p2"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DOM-JS"
+	}
+}
